@@ -1,0 +1,10 @@
+a_name = 'Курс'
+c_name = 'Python'
+aa_name = 'всего задач'
+bb_name = '1.5'
+cc_name = 'затрачено часов'
+dd_name = 'среднее время выполнения'
+ad_name = 'часа.'
+name = 12
+name_ee = 1.5
+print(a_name + ':', c_name + ',', aa_name + ':' + ' 12,', cc_name + ':',  bb_name + ',', dd_name, (name_ee/name))
